@@ -3,6 +3,7 @@ header {
     src: url("portfolio/Basic-Regular.ttf") format('truetype');
     font-weight: normal;
     font-style: normal; 
+    text-align: center; 
     padding: 30px; 
 }
 
