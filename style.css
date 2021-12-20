@@ -28,6 +28,7 @@ border-size: 10px;
 }
 /* Dropdown Menu */
 .dropdown {
+  font-family: "Cutesy";
   position: relative;
   display: inline-block;
   background-color: black;
@@ -35,7 +36,8 @@ border-size: 10px;
   padding: 10px;
 }
 
-.dropdown-content {
+.dropdown-content { 
+  font-family: "Cutesy";
   display: none;
   position: absolute;
   background-color: white;
@@ -46,7 +48,8 @@ border-size: 10px;
   z-index: 1;
 }
 
-.dropdown:hover{
+.dropdown:hover{ 
+  font-family: "Cutesy";
   position: relative;
   display: inline-block;
   background-color: AliceBlue;
@@ -62,7 +65,8 @@ border-size: 10px;
 </
 
 /* Navigation:  */
-nav {
+nav { 
+  font-family: "Cutesy";
   font-family: "Basic";
   float: left;
   width: 20%;
@@ -84,7 +88,8 @@ body {
 }
 
 
-footer {
+footer { 
+  font-family: "Cutesy";
   background-color: #000;
   padding: 10px;
   text-align: center;
