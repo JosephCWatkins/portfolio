@@ -1,6 +1,6 @@
 body {
     font-family: "LxgwWenKaiMonoLatin";
     src: url("../portfolio/LxgwWenKaiMonoLatin-Light.ttf") format('truetype');
-    font-weight: light;
-    font-style: light;
+    font-weight: normal;
+    font-style: normal;
 }
