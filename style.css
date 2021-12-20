@@ -1,17 +1,51 @@
+@font-face {
+  font-family: "Basic";
+  src: url("./fonts/Basic-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: "Cutesy";
+  src: url("./fonts/LxgwWenKaiMonoLatin-Light.ttf") format('truetype');
+
+}
+
+
 header {
-    font-family: "Basic";
-    src: url("portfolio/Basic-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal; 
-    text-align: center; 
-    padding: 30px; 
-    background-color: #999; 
+    background-color: AliceBlue;
+    padding: 01px;
+    font-family: "Cutesy";
+    text-align: left;
+    color: black;
+
+
+}
+
+
+nav {
+  font-family: "Basic";
+  float: left;
+  width: 20%;
+  border-width: 10px;
+  border-color: black;
+  height: 300px; /* only for demonstration, should be removed */
+  background: AliceBlue;
+  padding: 10px;
+  list-style-type: none;
+  text-align: left;
 }
 
 
 body {
-    font-family: "LxgwWenKaiMonoLatin";
-    src: url("portfolio/LxgwWenKaiMonoLatin-Light.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
+    float: center;
+    font-family: Cutesy;
+}
+
+
+footer {
+  background-color: #000;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
