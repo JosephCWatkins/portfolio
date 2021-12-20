@@ -1,3 +1,11 @@
+header {
+    font-family: "Basic";
+    src: url("portfolio/Basic-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
     font-family: "LxgwWenKaiMonoLatin";
     src: url("portfolio/LxgwWenKaiMonoLatin-Light.ttf") format('truetype');
